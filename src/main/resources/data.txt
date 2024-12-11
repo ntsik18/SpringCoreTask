@@ -1,0 +1,7 @@
+trainee,1,John,Doe,john.doe,1234567890,true,1990-05-15,123 Main St
+trainee,2,Jane,Smith,jane.smith,abcdefghij,true,1992-08-23,456 Oak St
+trainer,1,Michael,Johnson,michael.johnson,pwd1234560,true,weight training
+trainer,2,Emily,Davis,emily.davis,pwd4564567,true,boxing
+training,1,1,1,heavy weights,weight lifting,2024-01-01,1
+training,2,2,1,running,cardio,2024-02-15,0.5
+training,3,1,2,box,strength,2024-03-10,1.5
